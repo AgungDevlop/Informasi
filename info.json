@@ -1,10 +1,14 @@
 [
   {
-    "tanggal": "coba",
-    "info": "coba"
+    "tanggal": "Hallo",
+    "info": "Hallo"
   },
   {
     "tanggal": "coba lagi",
     "info": "lagi nyoba"
+  },
+  {
+    "tanggal": "coba",
+    "info": "coba"
   }
 ]
